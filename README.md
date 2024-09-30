@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋 I’m a Communications Electronics Engineer from the Universidad Politécnica de Madrid. I’m sharing some personal projects here on GitHub, feel free to take a look!
+
+You can also check my LinkedIn (when the account is not hibernating).
+
+I’m currently improving my toolset regarding embedded systems and I have lots of experience in hardware design, manufacturing, and testing.
+
+I’m currently learning the Rust programming language.
 
 <!--
 **cegea/cegea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
